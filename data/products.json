@@ -143,43 +143,6 @@
         ]
     },
     {
-        "id": 9,
-        "title": "Infinix INBOOK",
-        "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
-        "price": 1099,
-        "discountPercentage": 11.83,
-        "rating": 4.54,
-        "stock": 96,
-        "brand": "Infinix",
-        "category": "laptops",
-        "thumbnail": "https://i.dummyjson.com/data/products/9/thumbnail.jpg",
-        "images": [
-            "https://i.dummyjson.com/data/products/9/1.jpg",
-            "https://i.dummyjson.com/data/products/9/2.png",
-            "https://i.dummyjson.com/data/products/9/3.png",
-            "https://i.dummyjson.com/data/products/9/4.jpg",
-            "https://i.dummyjson.com/data/products/9/thumbnail.jpg"
-        ]
-    },
-    {
-        "id": 10,
-        "title": "HP Pavilion 15-DK1056WM",
-        "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
-        "price": 1099,
-        "discountPercentage": 6.18,
-        "rating": 4.43,
-        "stock": 89,
-        "brand": "HP Pavilion",
-        "category": "laptops",
-        "thumbnail": "https://i.dummyjson.com/data/products/10/thumbnail.jpeg",
-        "images": [
-            "https://i.dummyjson.com/data/products/10/1.jpg",
-            "https://i.dummyjson.com/data/products/10/2.jpg",
-            "https://i.dummyjson.com/data/products/10/3.jpg",
-            "https://i.dummyjson.com/data/products/10/thumbnail.jpeg"
-        ]
-    },
-    {
         "id": 11,
         "title": "perfume Oil",
         "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
@@ -368,7 +331,7 @@
     {
         "id": 21,
         "title": "- Daal Masoor 500 grams",
-        "description": "Fine quality Branded Product Keep in a cool and dry place",
+        "description": "gheu gheu meow meow",
         "price": 20,
         "discountPercentage": 4.81,
         "rating": 4.44,
@@ -383,135 +346,43 @@
         ]
     },
     {
-        "id": 22,
-        "title": "Elbow Macaroni - 400 gm",
-        "description": "Product details of Bake Parlor Big Elbow Macaroni - 400 gm",
-        "price": 14,
-        "discountPercentage": 15.58,
-        "rating": 4.57,
-        "stock": 146,
-        "brand": "Bake Parlor Big",
-        "category": "groceries",
-        "thumbnail": "https://i.dummyjson.com/data/products/22/thumbnail.jpg",
-        "images": [
-            "https://i.dummyjson.com/data/products/22/1.jpg",
-            "https://i.dummyjson.com/data/products/22/2.jpg",
-            "https://i.dummyjson.com/data/products/22/3.jpg"
-        ]
+        "title": "Hello guys wussub I a shihab video",
+        "description": "SHihab is the cod class a;dlkfj;asldf a",
+        "price": 500,
+        "rating": 4.9,
+        "stock": 400,
+        "id": 22
     },
     {
-        "id": 23,
-        "title": "Orange Essence Food Flavou",
-        "description": "Specifications of Orange Essence Food Flavour For Cakes and Baking Food Item",
-        "price": 14,
-        "discountPercentage": 8.04,
-        "rating": 4.85,
-        "stock": 26,
-        "brand": "Baking Food Items",
-        "category": "groceries",
-        "thumbnail": "https://i.dummyjson.com/data/products/23/thumbnail.jpg",
-        "images": [
-            "https://i.dummyjson.com/data/products/23/1.jpg",
-            "https://i.dummyjson.com/data/products/23/2.jpg",
-            "https://i.dummyjson.com/data/products/23/3.jpg",
-            "https://i.dummyjson.com/data/products/23/4.jpg",
-            "https://i.dummyjson.com/data/products/23/thumbnail.jpg"
-        ]
+        "title": "meow meow gheu gheu",
+        "description": "SHihab is the cod class a;dlkfj;asldf a",
+        "price": 500,
+        "rating": 4.9,
+        "stock": 400,
+        "id": 23
     },
     {
-        "id": 24,
-        "title": "cereals muesli fruit nuts",
-        "description": "original fauji cereal muesli 250gm box pack original fauji cereals muesli fruit nuts flakes breakfast cereal break fast faujicereals cerels cerel foji fouji",
-        "price": 46,
-        "discountPercentage": 16.8,
-        "rating": 4.94,
-        "stock": 113,
-        "brand": "fauji",
-        "category": "groceries",
-        "thumbnail": "https://i.dummyjson.com/data/products/24/thumbnail.jpg",
-        "images": [
-            "https://i.dummyjson.com/data/products/24/1.jpg",
-            "https://i.dummyjson.com/data/products/24/2.jpg",
-            "https://i.dummyjson.com/data/products/24/3.jpg",
-            "https://i.dummyjson.com/data/products/24/4.jpg",
-            "https://i.dummyjson.com/data/products/24/thumbnail.jpg"
-        ]
+        "title": "piku piku",
+        "description": "SHihab is the cod class a;dlkfj;asldf a",
+        "price": 500,
+        "rating": 4.9,
+        "stock": 400,
+        "id": 24
     },
     {
-        "id": 25,
-        "title": "Gulab Powder 50 Gram",
-        "description": "Dry Rose Flower Powder Gulab Powder 50 Gram • Treats Wounds",
-        "price": 70,
-        "discountPercentage": 13.58,
-        "rating": 4.87,
-        "stock": 47,
-        "brand": "Dry Rose",
-        "category": "groceries",
-        "thumbnail": "https://i.dummyjson.com/data/products/25/thumbnail.jpg",
-        "images": [
-            "https://i.dummyjson.com/data/products/25/1.png",
-            "https://i.dummyjson.com/data/products/25/2.jpg",
-            "https://i.dummyjson.com/data/products/25/3.png",
-            "https://i.dummyjson.com/data/products/25/4.jpg",
-            "https://i.dummyjson.com/data/products/25/thumbnail.jpg"
-        ]
+        "title": "shihab shihab piku piku",
+        "description": "SHihab is the cod class a;dlkfj;asldf a",
+        "price": 500,
+        "rating": 4.9,
+        "stock": 400,
+        "id": 25
     },
     {
-        "id": 26,
-        "title": "Plant Hanger For Home",
-        "description": "Boho Decor Plant Hanger For Home Wall Decoration Macrame Wall Hanging Shelf",
-        "price": 41,
-        "discountPercentage": 17.86,
-        "rating": 4.08,
-        "stock": 131,
-        "brand": "Boho Decor",
-        "category": "home-decoration",
-        "thumbnail": "https://i.dummyjson.com/data/products/26/thumbnail.jpg",
-        "images": [
-            "https://i.dummyjson.com/data/products/26/1.jpg",
-            "https://i.dummyjson.com/data/products/26/2.jpg",
-            "https://i.dummyjson.com/data/products/26/3.jpg",
-            "https://i.dummyjson.com/data/products/26/4.jpg",
-            "https://i.dummyjson.com/data/products/26/5.jpg",
-            "https://i.dummyjson.com/data/products/26/thumbnail.jpg"
-        ]
-    },
-    {
-        "id": 27,
-        "title": "Flying Wooden Bird",
-        "description": "Package Include 6 Birds with Adhesive Tape Shape: 3D Shaped Wooden Birds Material: Wooden MDF, Laminated 3.5mm",
-        "price": 51,
-        "discountPercentage": 15.58,
-        "rating": 4.41,
-        "stock": 17,
-        "brand": "Flying Wooden",
-        "category": "home-decoration",
-        "thumbnail": "https://i.dummyjson.com/data/products/27/thumbnail.webp",
-        "images": [
-            "https://i.dummyjson.com/data/products/27/1.jpg",
-            "https://i.dummyjson.com/data/products/27/2.jpg",
-            "https://i.dummyjson.com/data/products/27/3.jpg",
-            "https://i.dummyjson.com/data/products/27/4.jpg",
-            "https://i.dummyjson.com/data/products/27/thumbnail.webp"
-        ]
-    },
-    {
-        "id": 28,
-        "title": "3D Embellishment Art Lamp",
-        "description": "3D led lamp sticker Wall sticker 3d wall art light on/off button  cell operated (included)",
-        "price": 20,
-        "discountPercentage": 16.49,
-        "rating": 4.82,
-        "stock": 54,
-        "brand": "LED Lights",
-        "category": "home-decoration",
-        "thumbnail": "https://i.dummyjson.com/data/products/28/thumbnail.jpg",
-        "images": [
-            "https://i.dummyjson.com/data/products/28/1.jpg",
-            "https://i.dummyjson.com/data/products/28/2.jpg",
-            "https://i.dummyjson.com/data/products/28/3.png",
-            "https://i.dummyjson.com/data/products/28/4.jpg",
-            "https://i.dummyjson.com/data/products/28/thumbnail.jpg"
-        ]
+        "title": "nahid piku piku",
+        "description": "SHihab is the cod class a;dlkfj;asldf a",
+        "price": 500,
+        "rating": 4.9,
+        "stock": 400,
+        "id": 26
     }
 ]
